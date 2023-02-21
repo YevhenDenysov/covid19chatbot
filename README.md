@@ -4,8 +4,6 @@
 
 ### Chatbot with React UI
 
-This project is my work for the subject of Artificial Intelligence in partial fulfilment of the requirements for the awards of the degree of Master of Computer Applications from National Institute of Technology, Tiruchirappalli, during the academic year 2019–2020 (5th Semester).
-
 The project report along with the all the tasks I did can be found inside project-report directory.
 
 There are two main parts of the project:
